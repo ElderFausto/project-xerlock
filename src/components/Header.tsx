@@ -13,12 +13,19 @@ const Header: React.FC = () => {
           />
           <nav className="flex items-center gap-6 ml-4">
             <a href="/" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Início</a>
+
             <NavLink to="/about" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Quem somos</NavLink>
-            <a href="#" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Produtos e Soluções</a>
+
+            <a href="/products" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Produtos e Soluções</a>
+
             <a href="/services" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Serviços</a>
+
             <a href="#" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Clientes</a>
+
             <a href="#" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Newsletter Xerlock</a>
+
             <a href="#" className="text-primary-500 text-sm font-inter hover:text-primary-400 transition-colors">Contato</a>
+
           </nav>
         </div>
         
