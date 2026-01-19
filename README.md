@@ -39,6 +39,8 @@ Realizar a modernização da camada digital de uma organização fictícia (ou r
 
 O projeto segue uma arquitetura baseada em componentes reutilizáveis:
 
+<img width="539" height="262" alt="image" src="https://github.com/user-attachments/assets/1f9bcb7c-9f5f-438e-ae46-5448541321fa" />
+
 ### 🏠 1. Home (Página Principal)
 * **Hero:** Apresentação impactante com CTA (Chamada para ação).
 * **NewsletterSection:** Captura de leads.
