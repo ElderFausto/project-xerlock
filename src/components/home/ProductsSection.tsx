@@ -132,6 +132,7 @@ const ProductsSection: React.FC = () => {
               <br /><br />
               Identifique inconsistências, reduza custos e garanta compliance total.
             </p>
+            
             <div className="flex gap-2 mb-4">
               <button className="bg-[#111828] border border-white/17 text-primary-500 px-3 py-2 rounded-md text-sm font-medium flex items-center gap-2">
                 Saiba mais

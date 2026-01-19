@@ -7,17 +7,8 @@ export function Products() {
   return (
     <>
       <Hero />
-      
       <ProductSection />
       <FeatureList features={[]} />
-      <ProductCard 
-        title="" 
-        description="" 
-        logoUrl="" 
-        demoUrl="" 
-        iconUrl="" 
-      />
-      
     </> 
   );
 }
